@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d81391-f641-4c7f-a516-eb3f43cf8d3a" name="Default Changelist" comment="" />
+    <list default="true" id="20d81391-f641-4c7f-a516-eb3f43cf8d3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +42,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687617462072</updated>
-      <workItem from="1687617463165" duration="476000" />
+      <workItem from="1687617463165" duration="967000" />
+      <workItem from="1687618874197" duration="598000" />
+      <workItem from="1687620395235" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="New Files">
       <created>1687617629698</created>
@@ -41,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687617629698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Files">
+      <created>1687618072900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618072900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,13 +71,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="New Files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="84" key="CommitChangelistDialog2" timestamp="1687617592639">
+    <state x="585" y="84" key="CommitChangelistDialog2" timestamp="1687618066537">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="585" y="84" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1687617592639" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1687617940453">
+    <state x="585" y="84" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1687618066537" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1687618218862">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1687617940453" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1687618218862" />
   </component>
 </project>
